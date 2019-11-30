@@ -22,7 +22,7 @@ return [
     //登录token验证
     'token'=>'1',
     //验证码
-    'captcha'=>'0',
+    'captcha'=>'1',
     //登录背景
     'background'=>'/static/admin/images/login-default-bg.jpg',
 ],
